@@ -193,6 +193,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
 -----
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
 
 Last Edited on: 18/02/2022

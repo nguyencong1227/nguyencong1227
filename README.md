@@ -16,7 +16,6 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Sophomore` at Phenikaa University
-- :trophy: `ACPC` Finalist 2021
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]().

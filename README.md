@@ -4,15 +4,6 @@
 </p>
 
 
-<br>
-
-<p align="center"> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="nguyencong1227" target="_blank"/> 
-	</a>
-</p>
-
-
 ## :sassy_man:  About me
 - :school: I am a `Sophomore` at Phenikaa University
 - :technologist: I love using Software as a solution for every `Problem`

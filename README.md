@@ -41,7 +41,7 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -133,7 +133,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "Adobe Premiere Pro" src="(https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" /></a>	
+    <a href="#"><img alt = "Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" /></a>	
   &emsp;
     <a href="#"><img alt = "Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" /></a>
   &emsp;
@@ -141,7 +141,7 @@
 </p>
 
 <div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/nguyencong1227/nguyencong1227/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 <br/>
 

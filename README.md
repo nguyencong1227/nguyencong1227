@@ -7,7 +7,6 @@
 <br>
 
 <p align="center"> 
-	<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyencong1227&label=views&color=0eb429&style=flat" alt="nguyencong1227" /> </p>
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
 	</a>

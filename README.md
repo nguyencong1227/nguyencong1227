@@ -136,7 +136,9 @@
 </p>
 
 <div>
-  ![snake gif](https://github.com/nguyencong1227/nguyencong1227/blob/output/github-contribution-grid-snake.gif)
+	<p align="center">
+  &emsp;
+    <a href="#"><img alt = "snake gif" src="https://github.com/nguyencong1227/nguyencong1227/blob/output/github-contribution-grid-snake.gif" /></a>	
 </div>
 <br/>
 

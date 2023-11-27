@@ -96,16 +96,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>  
 </p>
 
-### 🎨 Design
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" /></a>
-</p>
 
 <div>
 	<p align="center">

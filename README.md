@@ -5,9 +5,9 @@
 
 
 ## :sassy_man:  About me.
-- :school: I am a `Junior` at Phenikaa University
+- :school: I am a `Senior` at Phenikaa University
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning: `Computer Science` and `Artificial Intelligence`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]().
 - :nerd_face: Always `learning new things`
 

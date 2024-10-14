@@ -8,7 +8,7 @@
 - :school: I have `graduated` with a `Bachelor's degree` from Phenikaa University.
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Artificial Intelligence`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]().
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]("https://congnguyenchi.id.vn/").
 - :nerd_face: Always `learning new things`
 
 <br>

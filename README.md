@@ -9,7 +9,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Artificial Intelligence`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://github.com/nguyencong1227/nguyencong1227/blob/cf15ab7406b2664af7e479d4e4bcaeee68d2050d/assets/Nguy%E1%BB%85n%20Ch%C3%AD%20C%C3%B4ng-CV.pdf).
-- :nerd_face: Always `learning new things`
+- :nerd_face: Always `learning new things`.
 
 <br>
 

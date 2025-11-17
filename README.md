@@ -12,11 +12,6 @@
 - :nerd_face: Always `learning new things`.
 
 <br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyencong1227&theme=algolia" alt="nguyencong1227" /></p>
-
-<br>
 <br>
 
 

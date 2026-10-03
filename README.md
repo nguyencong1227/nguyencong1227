@@ -5,7 +5,7 @@
 
 
 ## :sassy_man:  About me.
-- :school: I have `graduated` with a `Bachelor's degree` from Phenikaa University.
+- :school: I have graduated with a `Bachelor's degree` from Phenikaa University.
 - :student: This is [MY RESUME](https://github.com/nguyencong1227/nguyencong1227/blob/cf15ab7406b2664af7e479d4e4bcaeee68d2050d/assets/Nguy%E1%BB%85n%20Ch%C3%AD%20C%C3%B4ng-CV.pdf).
 - :nerd_face: Always `learning new things`.
 
